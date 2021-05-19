@@ -1,0 +1,22 @@
+{
+  "name": "smartevals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmu-ug/smartevals.git"
+  },
+  "author": "ohnx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmu-ug/smartevals/issues"
+  },
+  "homepage": "https://github.com/cmu-ug/smartevals#readme",
+  "dependencies": {
+    "csv-parse": "^4.15.4"
+  }
+}
